@@ -1,0 +1,10 @@
+#test {
+  color: red;
+}
+.x {
+  background-color: red;
+  color: white;
+}
+.x {
+  background-color: blue;
+}
