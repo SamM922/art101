@@ -1,0 +1,19 @@
+div {
+  margin-left: 30px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.output {
+  font-family: "Courier";
+  font-weight: bold;
+}
+
+#prius {
+  width: 800px;
+  border: 4px dotted darkred;
+  float: right;
+  margin: 10px;
+}
