@@ -1,0 +1,35 @@
+div {
+  margin-left: 30px;
+}
+
+h1 {
+  text-align: center;
+}
+
+h3 {
+  font-family: "Verdana", sans-serif;
+  color: blue;
+}
+
+#output {
+  font-family: "Courier";
+  font-weight: bold;
+}
+
+.special{
+  color: purple;
+  font-size: 30px;
+  font-family: cursive;
+}
+
+.special2{
+  color: black;
+  font-family: serif;
+  background-color: white;
+}
+
+.special3{
+  color: red;
+  font-family: monospace;
+  font-size: 75%;
+}
