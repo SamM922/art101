@@ -22,7 +22,6 @@ function fizzBuzzBoom(max) {
       $("#output").append("<p>" + i + " Boom!</p>");
     } else {
       $("#output").append("<p>" + i + "</p>");
-      console.log("Hey");
     }
   }
 }
